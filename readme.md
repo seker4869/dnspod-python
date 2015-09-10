@@ -8,3 +8,6 @@
 - 代表域名和dnspod账号的对应关系。
 - key为一级域名，例如：github.com。默认为default。
 - value为“account password token”字符串base64编码后的加密串。
+
+
+如有问题，可邮件至gaojiasheng.him@foxmail.com
